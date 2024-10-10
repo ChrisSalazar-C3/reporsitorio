@@ -65,7 +65,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col" style="background-color: rgb(229,221,202);">
                 <div class="row">
-                    <h1 style="color: rgb(54,16,28); text-align:center; padding-top:20px">AUTENTICACIÓN</h1>
+                    <h1 style="color: rgb(54,16,28); text-align:center; padding-top:20px">AUTENTICACIÓN  CHRISTIAN </h1>
                 </div>
 
                 <form style="padding: 45px; text-align:left;" method="POST">
