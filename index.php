@@ -78,7 +78,7 @@ if (!empty($_SESSION['activa'])) {
                         <div id="emailHelp" class="form-text">No compartiremos tu correo con nadie.</div>
                     </div>
                     <div class="mb-3">
-                        <label for="contra" class="form-label" >Contraseña</label>
+                        <label for="contra" class="form-label" >Password</label>
                         <input type="password" class="form-control" id="contra" name="contra" placeholder="Contraseña">
                     </div>
                     <div class="mb-3 form-check">
