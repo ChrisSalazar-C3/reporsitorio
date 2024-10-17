@@ -57,7 +57,7 @@ if (!empty($_SESSION['activa'])) {
 </head>
 
 <body>
-    <h1>Hola christian Salazar</h1>
+    <h1>Hola christian Salazar cambio 2</h1>
     <div class="container" style="padding-top: 23px;">
         <div class="row" style="background-color: green; text-align:center;">
             <div class="col" style="background-color: rgb(196,153,108);">
